@@ -1,32 +1,71 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Md Maruf </h1>
+# Hi, I'm Maruf 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-35495E?style=flat-square&logo=nuxt&logoColor=4FC08D)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+I'm a Software Engineer and Web Developer passionate about **building scalable, secure, and AI-powered web applications**. I specialize in **full-stack development, cloud deployment, and software architecture**, with hands-on experience in modern frameworks, databases, and DevOps workflows.
 
-👋 👋👋 Welcome to My Profile. 
-- I am 20 years old. My passion is learning code & deploy. I have 3 years experience in programming. 👩‍💻
-- 👉 A Full-stack Developer. Expert in PHP & Laravel, crafting secure, elegant web applications and APIs. Problem-solver at heart, skilled in OOP concepts & backend architecture.
-- 👉 Front-end fluency: HTML, CSS, JS, Tailwind, Bootstrap, React JS, Vue Js, livewire and jQuery under my belt, making responsive, user-friendly interfaces.
-- 💡 Driven to learn. Self-taught developer with a hunger for new technologies and a knack for finding creative solutions.
-- 😎 Ready to make an impact. Looking for a company where I can contribute my passion and skills to build amazing products.
+---
 
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about React JS, Vue JS, Laravel and API development.
+## 🛠 Technical Skills
 
-### Where to find me
+### Languages
+- PHP, JavaScript, Python, Java
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/web-developer-maruf/) 
-[![Twitter](https://img.shields.io/badge/Whatsapp-0aa30a?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=4407460229387)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/web.developer.maruf)
+### Frontend
+- Vue.js, React, Nuxt.js, Redux
+- HTML5, CSS3, Tailwind CSS, Bootstrap, PrimeVue
+
+### Backend
+- Laravel, Node.js, Express.js
+- RESTful API Design, MVC Architecture, OOP
+
+### Databases & Caching
+- MySQL, PostgreSQL, MongoDB, Redis
+
+### Tools & Platforms
+- Git, GitHub, Docker, Postman, JetBrains IDEs, Jira
+- Agile Methodologies, Software Testing
+
+### Cloud & Deployment
+- AWS (EC2, S3), cPanel, Windows Server, Ubuntu, linux.
+
+---
+
+## 💻 Selected Projects
+
+### 1. **Hospital Management System (Laravel + Vue)**
+- Features: Patient records, billing, appointment scheduling, POS receipts.
+- Highlights: MVC Architecture, OOP,  RESTful API.
+- Frontend [Repo Link](https://github.com/webdevelopermaruf/Health_Soft)
+- Backend [Repo Link](https://github.com/webdevelopermaruf/Health_API)
+
+### 2. **Budget & Skill Companion App (Vue + Laravel)**
+- Tracks budgets, achievements, skill points, and leaderboard rankings.
+- Highlights: Vue Composition API, modular components, Laravel backend APIs.
+- [Repo Link](https://github.com/webdevelopermaruf/indevo)
+
+### 3. **School Management System (Laravel + Vue + Redis)**
+- Automated timetable and seating plan generator for schools.
+- Highlights: Algorithm-based seating arrangements, caching strategies, API-driven backend.
+- Backend [Repo Link](https://github.com/webdevelopermaruf/Edu_API)
+- Frontend [Repo Link](https://github.com/webdevelopermaruf/Edu_Soft) 
+
+### 4. **E-commerce / SaaS Projects**
+- Built with Reactjs, Redux, Axios, Backend as a laravel.
+- Highlights: Frontend state management with Redux, API integrations, responsive UI/UX.
+- [Repo Link](https://github.com/webdevelopermaruf/ecommerce-saas)
+
+
+---
+
+## 🌐 Deployment & Cloud
+- Deployed applications on **AWS EC2 & S3**, **cPanel**, and **Windows Server**.
+- CI/CD workflows using **Docker** and **GitHub Actions**.
+
+---
+
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: [Connect Now](https://www.linkedin.com/in/web-developer-maruf/)
+- Portfolio: [Visit Now](https://hellomaruf.netlify.app)
+- Email: marufmd5040@gmail.com
