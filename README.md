@@ -1,6 +1,6 @@
 # Hi, I'm Maruf 👋
 
-I'm a Software Engineer and Web Developer passionate about **building scalable, secure, and AI-powered web applications**. I specialize in **full-stack development, cloud deployment, and software architecture**, with hands-on experience in modern frameworks, databases, and DevOps workflows.
+I'm a Software Engineer and Web Developer passionate about **building scalable, secure, and AI-powered web applications**. I specialize in **Frontend development, Backend developement, cloud deployment**, with hands-on experience in modern frameworks, databases, and DevOps workflows.
 
 ---
 
