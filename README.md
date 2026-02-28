@@ -68,4 +68,4 @@ I'm a Software Engineer and Web Developer passionate about **building scalable, 
 ## 🔗 Connect with Me
 - LinkedIn: [Connect Now](https://www.linkedin.com/in/web-developer-maruf/)
 - Portfolio: [Visit Now](https://hellomaruf.netlify.app)
-- Email: marufmd5040@gmail.com
+- Email: software.engr.maruf@gmail.com
